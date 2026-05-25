@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a 21-year-old Systems Engineering & Mathemathics student at Pontificia Universidad Javeriana.<br>💻 Passionate about mobile development, open source and problem-solving.<br>🤖 Currently exploring the Linux distribution NixOS!<br>💡Interested in learning Computer Graphics, Machine Learning and Abstract Algebra
+🎓 I'm a 21-year-old Systems Engineering & Mathemathics student at Pontificia Universidad Javeriana.<br>💻 Passionate about mobile development, open source and problem-solving.<br>🐧 Currently exploring the Linux distribution NixOS!<br>💡Interested in learning Computer Graphics, Machine Learning and Abstract Algebra
 
 
 # 💻 Tech Stack:
